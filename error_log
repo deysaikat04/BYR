@@ -1,0 +1,16 @@
+[09-Sep-2017 17:05:00 Etc/GMT] PHP Fatal error:  Cannot use [] for reading in /home/piriaght/public_html/test/application/views/pages/Vehicle.php on line 74
+[09-Sep-2017 17:05:00 Etc/GMT] PHP Fatal error:  Cannot use [] for reading in /home/piriaght/public_html/test/application/views/pages/Vehicle.php on line 74
+[09-Sep-2017 17:05:00 Etc/GMT] PHP Fatal error:  Cannot use [] for reading in /home/piriaght/public_html/test/application/views/pages/Vehicle.php on line 74
+[09-Sep-2017 17:34:03 Etc/GMT] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/piriaght/public_html/test/application/controllers/View.php on line 113
+[09-Sep-2017 17:34:49 Etc/GMT] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/piriaght/public_html/test/application/controllers/View.php on line 113
+[09-Sep-2017 17:34:53 Etc/GMT] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/piriaght/public_html/test/application/controllers/View.php on line 113
+[09-Sep-2017 18:13:49 Etc/GMT] PHP Parse error:  syntax error, unexpected '' AND p.Status = 1 AND i.Lead ' (T_ENCAPSED_AND_WHITESPACE) in /home/piriaght/public_html/test/application/models/TruckModel.php on line 64
+[10-Sep-2017 09:40:56 Etc/GMT] PHP Fatal error:  Cannot use [] for reading in /home/piriaght/public_html/test/application/models/TruckModel.php on line 103
+[14-Oct-2017 16:03:12 Etc/GMT] PHP Parse error:  syntax error, unexpected ';' in /home/piriaght/public_html/test/application/config/email.php on line 9
+[19-Oct-2017 03:55:57 Etc/GMT] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/piriaght/public_html/test/application/controllers/Email.php on line 136
+[19-Oct-2017 03:55:59 Etc/GMT] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/piriaght/public_html/test/application/controllers/Email.php on line 136
+[19-Oct-2017 03:56:30 Etc/GMT] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/piriaght/public_html/test/application/controllers/Email.php on line 136
+[19-Oct-2017 04:43:28 Etc/GMT] PHP Fatal error:  Call to a member function from() on null in /home/piriaght/public_html/test/application/controllers/Email.php on line 96
+[18-Nov-2017 05:58:22 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/piriaght/public_html/jiauto.jp/application/views/pages/ViewAll.php on line 16
+[18-Nov-2017 05:58:23 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/piriaght/public_html/jiauto.jp/application/views/pages/ViewAll.php on line 16
+[18-Nov-2017 05:58:23 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/piriaght/public_html/jiauto.jp/application/views/pages/ViewAll.php on line 16
